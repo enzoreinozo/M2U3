@@ -38,3 +38,12 @@ aside {
 	float: right;
 	width: 190px;
 }
+
+@media screen and (max-width: 799px) {
+	body{
+		background: olive;
+	}
+	#contenedor{
+		display: inline;
+	}
+}
